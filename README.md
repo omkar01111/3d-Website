@@ -1,16 +1,16 @@
 # 3d-Website
-This GitHub project is dedicated to creating a visually stunning one-page website with 3D image animation and text animation, enhanced with smooth scrolling for an engaging user experience.
-Certainly, here's the updated project description without the license section:
+
+
+This GitHub project is dedicated to creating a visually stunning one-page website with 3D image animation and text animation, enhanced with smooth scrolling for an engaging user experience. We use cutting-edge technologies and libraries, including "gaps" for animating elements, "Locomotive Scroll" (powered by Locomotive.js) for seamless and precise scrolling, and "shery.js" by [asynchronousJavascriptor](https://github.com/asynchronousJavascriptor) for dynamic image animation.
 
 
 
 [Preview the Demo](https://3d-website-silk-beta.vercel.app/)
 
+![3d website](https://github.com/omkar01111/3d-Website/assets/92498781/dc724ed2-7b73-41d1-a854-9a5c79abeb3f)
 
 
-## Description
 
-This GitHub project is dedicated to creating a visually stunning one-page website with 3D image animation and text animation, enhanced with smooth scrolling for an engaging user experience. We use cutting-edge technologies and libraries, including "gaps" for animating elements, "Locomotive Scroll" (powered by Locomotive.js) for seamless and precise scrolling, and "shery.js" by [asynchronousJavascriptor](https://github.com/asynchronousJavascriptor) for dynamic image animation.
 
 ## Key Features
 
